@@ -1,5 +1,5 @@
 
-import {addCategory, isCategoryExists, removeCategory} from "./src/firebase/fireBaseDbService";
+import {addCategory, isCategoryExists, removeCategory} from "../src/firebase/fireBaseDbService";
 
 
 const categories: string[] = ["bread", "biscuits", "cake", "croissants", "pizza", "pretzels", "sweets", "tart"]

@@ -1,4 +1,4 @@
-import {compactArr, multiply, sum, reverseString, isEven, echo, fetchData} from "./src/utils/test_func";
+import {compactArr, multiply, sum, reverseString, isEven, echo, fetchData} from "../src/utils/test_func";
 
 describe("simple testing", ()=> {
     test("sum correct two numbers", () => {
