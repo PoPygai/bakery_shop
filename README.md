@@ -23,7 +23,7 @@ It features a product catalog, shopping cart, and real-time data handling via Fi
 ## 🔧 Setup and Run Locally
 
 ```bash
-git clone https://github.com/PoPygai/bakery_shop
+git clone [https://github.com/PoPygai/bakery_shop](https://github.com/PoPygai/bakery_shop)
 cd bakery-shop
 npm install
 npm run dev
